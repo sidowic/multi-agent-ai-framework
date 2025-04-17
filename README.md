@@ -110,7 +110,7 @@ AI_MultiAgent_Bidding/
 ## ** Installation & Setup**
 ### **Step 1: Clone the Repository**
 bash
-git clone https://github.com/Shubham-Bishnoi/KPMG-KDN-AI-multi-agent-dynamic-bidding.git
+git clone https://github.com/sidowic/multi-agent-ai-framework.git
 cd AI_MultiAgent_Bidding
 
 
@@ -170,15 +170,6 @@ Each agent makes a bid using **reinforcement learning (DQN)**, where:
 ###  5. Q-Value Evolution Tracking
 - Tracks **how agents learn bidding strategies**.
 
-
-
-## Contributing
-Want to improve the **AI bidding system**? Follow these steps:
-1. **Fork the repo** 📌
-2. **Create a feature branch** (`git checkout -b feature-branch`)
-3. **Commit changes** (`git commit -m "New feature added"`)
-4. **Push to GitHub** (`git push origin feature-branch`)
-5. **Submit a pull request** 
 
 ## Future Enhancements
 ✔ AI-powered **multi-agent negotiations** 
